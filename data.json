@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "smoothing": 0,
+  "streamline": 0,
+  "thinning": -1,
+  "linearEasing": true,
+  "removeTaper": true,
+  "reapplyIntervalMs": 500,
+  "backups": {}
+}

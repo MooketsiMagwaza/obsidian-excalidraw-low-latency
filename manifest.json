@@ -1,0 +1,10 @@
+{
+  "id": "excalidraw-low-latency",
+  "name": "Excalidraw Low Latency",
+  "version": "0.1.1",
+  "minAppVersion": "1.8.7",
+  "description": "Reduces Excalidraw pen smoothing and streamline processing for a more immediate drawing feel.",
+  "author": "Nido",
+  "authorUrl": "https://github.com/MVMC4",
+  "isDesktopOnly": false
+}
